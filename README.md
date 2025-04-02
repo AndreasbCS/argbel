@@ -95,7 +95,7 @@ The `argbel.py` script loads the ASP encoding and provides helper methods for qu
 Brännström, A., & Nieves, J. C. (2025). Manipulation Dialogue Verification in ASP (Version 1.0) [Computer software].
 ```
 ```
-@software{Brannstrom_ASP_Dialogue_Verification_2025,
+@software{Brannstrom_Manipulation_Dialogue_Verification_ASP_2025,
 author = {Brännström, Andreas and Nieves, Juan Carlos},
 month = {04},
 title = {{Manipulation Dialogue Verification in ASP}},
