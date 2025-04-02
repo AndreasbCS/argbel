@@ -1,5 +1,6 @@
 
-## Belief Dynamics in Bipolar Argumentation Dialogue Verification
+## Answer Set Programming (ASP)-based Dialogue Verification
+### Verification of manipulation and dishonesty in argumentation dialogues
 
 This repository provides an Answer Set Programming (ASP) encoding  for modeling and verifying belief dynamics, dishonesty, and manipulation in argumentation dialogues.
 
